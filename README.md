@@ -1,4 +1,5 @@
-# React Responsive Preview
+# MiniView
+A react responsive preview
 
 `ReactResponsivePreview` is a flexible React component designed to help you preview content in various screen sizes within a confined container. This package can scale any target resolution (width/height) to fit within a container, while allowing users to pass custom content (children), including images, videos, or even React components.
 
